@@ -139,7 +139,7 @@
 }
 
 .Target>ul>li{
-    
+    list-style: none;
 }
 
 .Functions{

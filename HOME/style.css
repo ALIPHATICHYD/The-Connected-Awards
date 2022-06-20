@@ -203,3 +203,19 @@
     top: 80px;
     background: url(WhatsApp Image 2022-02-10 at 10.38);
 }
+
+.Awards>article{
+    
+    position: absolute;
+    width: 375px;
+    height: 168px;
+    left: 737px;
+    top: 159px;
+    font-family: 'Pulp Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C0114;
+}
+

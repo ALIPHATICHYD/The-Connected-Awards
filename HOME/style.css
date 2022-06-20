@@ -169,6 +169,32 @@
 }
 
 
+/*Awards Section*/
+
+.Awards{
+    position: absolute;
+    width: 1440px;
+    height: 650px;
+    left: 0px;
+    top: 1368px;
+    background: #FFFFFF;
+}
+
+.Awards>h2{
+    position: absolute;
+    width: 350px;
+    height: 43px;
+    left: 735px;
+    top: 80px;
+    font-family: 'Pulp Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: -0.06em;
+    color: #0C0114;
+}
+
 .award_pic{
     position: absolute;
     width: 550px;

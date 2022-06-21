@@ -309,3 +309,119 @@ award_logo{
     background: url(WhatsAppImage2022-02-10at10.39.jpg);
 
 }
+
+.img_2{
+    position: absolute;
+    width: 290px;
+    height: 275px;
+    left: 330px;
+    top: 0px;
+    background: url(WhatsAppImage2022-02-12at11.18.jpg);
+}
+
+.img_3{
+    position: absolute;
+    width: 290px;
+    height: 275px;
+    left: 0px;
+    top: 315px;
+    background: url(WhatsAppImage2022-02-12at11.25.jpg);
+}
+
+.img_4{
+    position: absolute;
+    width: 290px;
+    height: 275px;
+    left: 330px;
+    top: 315px;
+    background: url(KacyTechtrendAward1.jpg); 
+}
+
+/*Rewards Section*/
+.rewards{   
+    position: absolute;
+    width: 1700px;
+    height: 560px;
+    left: 0px;
+    top: 2715px;
+    background: #FFFFFF;
+}
+
+.promising{   
+    box-sizing: border-box;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 80px;
+    top: 80px;
+    border: 1px solid #DBDBDB;
+    border-radius: 8px;
+
+}
+
+ .promising>h2{
+        
+    width: 254px;
+    height: 43px;
+    font-family: 'Pulp Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: -0.04em;
+    color: #3E0563;
+
+    }
+
+
+    .promising>p{
+    width: 335px;
+    height: 95px;
+    font-family: 'Pulp Display';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #0C0114;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    }
+
+.Intermediate{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 520px;
+    top: 80px;
+    
+    border: 1px solid #DBDBDB;
+    border-radius: 8px;
+}
+
+.Exceptional{
+    box-sizing: border-box;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 960px;
+    top: 80px;
+    border: 1px solid #DBDBDB;
+    border-radius: 8px;
+}
+
+/*Footer*/
+footer{
+    position: absolute;
+    width: 1700px;
+    height: 652px;
+    left: 0px;
+    top: 3275px;
+    background: #1F0231;
+}
+

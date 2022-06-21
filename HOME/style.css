@@ -416,12 +416,15 @@ award_logo{
 }
 
 /*Footer*/
+
 footer{
-    position: absolute;
     width: 1700px;
     height: 652px;
     left: 0px;
-    top: 3275px;
     background: #1F0231;
+     display: flex;
+    justify-content: space-around;
+    text-align: center;
+    position: relative;
 }
 

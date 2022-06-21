@@ -234,3 +234,25 @@
     background: #3E0563;
     border-radius: 4px;
 }
+
+award_logo{
+    position: absolute;
+    left: 100%;
+    right: -100%;
+    top: 0%;
+    bottom: 0%;
+    background: #3E0563;
+    transform: matrix(-1, 0, 0, 1, 0, 0)
+}
+
+.celebrate{
+    position: absolute;
+    width: 1440px;
+    height: 697px;
+    left: 0px;
+    top: 2018px;
+    background: #FFFFFF;
+}
+
+
+

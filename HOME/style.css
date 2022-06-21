@@ -254,5 +254,33 @@ award_logo{
     background: #FFFFFF;
 }
 
+.celebrate>h2{   
+    position: absolute;
+    width: 285px;
+    height: 43px;
+    left: 80px;
+    top: 80px;
+    font-family: 'Pulp Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: -0.06em;
+    color: #0C0114;
+}
 
+.celebrate>p{
+    position: absolute;
+    width: 375px;
+    height: 168px;
+    left: 80px;
+    top: 159px;
+    font-family: 'Pulp Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C0114;
+
+}
 

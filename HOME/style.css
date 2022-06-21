@@ -284,3 +284,28 @@ award_logo{
 
 }
 
+.celebrate>button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 24px;
+    gap: 10px;
+    position: absolute;
+    width: 128px;
+    height: 51px;
+    left: 80px;
+    top: 359px;
+    background: #3E0563;
+    border-radius: 4px;
+}
+
+.img_1{  
+    position: absolute;
+    width: 290px;
+    height: 275px;
+    left: px;
+    top: 0px;
+    background: url(WhatsAppImage2022-02-10at10.39.jpg);
+
+}

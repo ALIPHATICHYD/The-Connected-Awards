@@ -241,7 +241,7 @@ width: 180px;
 height: 180px;
 left: 180px;
 top: 0px;
-
+transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
 .celebrate{

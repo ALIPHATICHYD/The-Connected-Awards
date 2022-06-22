@@ -236,7 +236,9 @@
 }
 
 award_logo{
- position: absolute;
+position: absolute;
+width: 180px;
+
 
 }
 
